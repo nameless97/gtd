@@ -3,8 +3,7 @@
 #+TAGS: { @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
 
 *  BOOK
-:
-CATEGORY: BOOK
+:CATEGORY: BOOK
 ** TODO [#C] CSAPP              <2016-03-07 Mon>                                :@Dormitory:
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>:LOGBOOK:
 CLOCK: [2016-03-07 Mon 20:31]--[2016-03-07 Mon 20:56] =>  0:25
