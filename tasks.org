@@ -1,0 +1,39 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+TAGS: { @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
+
+*  BOOK
+:
+CATEGORY: BOOK
+** TODO [#C] CSAPP              <2016-03-07 Mon>                                :@Dormitory:
+DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>:LOGBOOK:
+CLOCK: [2016-03-07 Mon 20:31]--[2016-03-07 Mon 20:56] =>  0:25
+:END:
+- State "TODO"       from              [2016-03-07 Mon 20:30]
+** TODO [#A]计算机网络-自顶向下方法          <2016-03-07 Mon>                  :@Classroom:
+DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
+- State "TODO"       from              [2016-03-07 Mon 21:18]
+** TODO [#B] 纽约摄影教程                <2016-03-07 Mon>      :@Classroom:
+DEADLINE: <2016-06-07 Tue> SCHEDULED: <2016-03-07 Mon>
+- State "TODO"       from              [2016-03-07 Mon 21:31]
+** TODO [#C] 国际象棋 <2016-03-07 Mon>                         :@Dormitory:
+SCHEDULED: <2016-03-07 Mon>
+- State "TODO"       from              [2016-03-07 Mon 21:33]
+** TODO [#C]水彩画<2016-03-07 Mon>                             :@Dormitory:
+SCHEDULED: <2016-03-07 Mon>
+- State "TODO"       from              [2016-03-07 Mon 21:34]
+** TODO [#A] 数据库<2016-03-07 Mon>                            :@Dormitory:
+DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
+- State "TODO"       from              [2016-03-07 Mon 21:35]
+
+* HOMEWORK
+:CATEGORY: HOMEWORK
+
+* ART
+:CATEGORY: ART
+** TODO [#B] Music Theory<2016-03-07 Mon>                      :@Dormitory:
+SCHEDULED: <2016-03-07 Mon>
+- State "TODO"       from              [2016-03-07 Mon 21:58]
+how to : read book
+** TODO [#A] Play Guitar<2016-03-07 Mon +1w>                         :@309:
+- State "TODO"       from              [2016-03-07 Mon 21:58]

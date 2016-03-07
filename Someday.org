@@ -1,0 +1,8 @@
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+TAGS: { @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
+
+
+* BOOK TO READ
+* THINGS TO DO
+
