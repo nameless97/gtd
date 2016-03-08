@@ -1,8 +1,12 @@
 #+STARTUP: overview
 #+STARTUP: hidestars
-#+TAGS: { @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
+#+TAGS: { @Someday(s) @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
 
 
-* BOOK TO READ
-* THINGS TO DO
+* BOOK TO READ                                                     :@Someday:
+* THINGS TO DO                                                     :@Someday:
 
+* Someday                                                          :@Someday:
+** TODO [#C] 画水彩                                            :@Dormitory:
+** TODO [#A] READ PRML                                         :@Dormitory:
+** TODO [#A] eat shit[2016-03-08 Tue]
