@@ -5,8 +5,7 @@
 
 * BOOK TO READ                                                     :@Someday:
 * THINGS TO DO                                                     :@Someday:
-
 * Someday                                                          :@Someday:
 ** TODO [#C] 画水彩                                            :@Dormitory:
 ** TODO [#A] READ PRML                                         :@Dormitory:
-** TODO [#A] eat shit[2016-03-08 Tue]
+

@@ -16,10 +16,14 @@
 CLOCK: [2016-03-08 Tue 19:50]--[2016-03-08 Tue 20:19] =>  0:29
 CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 :END:
-1. [ ] A Tour of Computer Systems[50%]
+1. [ ] A Tour of Computer Systems[10%]
 SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
 - State "TODO"       from              [2016-03-07 Mon 20:30]
-** TODO [#A]计算机网络-自顶向下方法                            :@Classroom:
+** TODO [#A]计算机网络-自顶向下方法[%]                          :@Classroom:
+:LOGBOOK:
+CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
+:END:
+1. [ ] 计算机网络和因特网
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:18]
 ** TODO [#B] 纽约摄影教程[50%]                                 :@Classroom:
