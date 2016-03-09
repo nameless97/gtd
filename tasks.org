@@ -86,4 +86,3 @@ SCHEDULED: <2016-03-10 Thu .+1d>
 :PROPERTIES:
 :CATEGORY: Things
 :END:
-** TODO [#A] Find the requisite skills for google working <2016-03-09 Wed> :@Computer:
