@@ -11,8 +11,10 @@
 :PROPERTIES:
 :CATEGORY: BOOK
 :END:
-** TODO [#A] CSAPP[0%]                                          :@Dormitory:
+** TODO [#A] CSAPP[0%]                                          :@Dormitory: 
 :LOGBOOK:
+CLOCK: [2016-03-09 Wed 21:35]--[2016-03-09 Wed 22:00] =>  0:25
+CLOCK: [2016-03-09 Wed 20:57]--[2016-03-09 Wed 21:22] =>  0:25
 CLOCK: [2016-03-08 Tue 19:50]--[2016-03-08 Tue 20:19] =>  0:29
 CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 :END:
@@ -21,6 +23,7 @@ SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
 - State "TODO"       from              [2016-03-07 Mon 20:30]
 ** TODO [#A]计算机网络-自顶向下方法[%]                          :@Classroom:
 :LOGBOOK:
+CLOCK: [2016-03-09 Wed 10:00]--[2016-03-09 Wed 11:30] =>  1:30
 CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
 :END:
 1. [ ] 计算机网络和因特网
@@ -42,29 +45,45 @@ SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:34]
 ** TODO [#A] 数据库                                            :@Dormitory:
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
+:LOGBOOK:
+CLOCK: [2016-03-09 Wed 13:30]--[2016-03-09 Wed 15:00] =>  1:30
+:END:
 - State "TODO"       from              [2016-03-07 Mon 21:35]
+** TODO [#A] READ PRML                                         :@Dormitory:
+DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
 
 * Homework
 :PROPERTIES:
 :CATEGORY: HOMEWORK
 :END:
-** TODO [#A] 毛概 PPT                                          :@Classroom:
+** TODO [#A] 毛概 PPT                                           :@Computer:
 DEADLINE: <2016-03-14 Mon> SCHEDULED: <2016-03-08 Tue>
+** TODO [#A] 数字音视频 PPT                                      :@Computer:
+DEADLINE: <2016-03-21 Mon> SCHEDULED: <2016-03-09 Wed>
 * Art
 :PROPERTIES:
 :CATEGORY: ART
 :END:
 ** TODO [#B] Music Theory                                      :@Dormitory:
 SCHEDULED: <2016-03-07 Mon>
+:LOGBOOK:
+CLOCK: [2016-03-09 Wed 18:30]--[2016-03-09 Wed 20:00] =>  1:30
+:END:
 - State "TODO"       from              [2016-03-07 Mon 21:58]
 how to : read book
 ** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-09 Wed .+1d>
+SCHEDULED: <2016-03-10 Thu .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-08 Tue 12:19]
+:LAST_REPEAT: [2016-03-09 Wed 21:25]
 :END:
+- State "DONE"       from "TODO"       [2016-03-09 Wed 21:25]
 - State "DONE"       from "TODO"       [2016-03-08 Tue 12:19]
 * Study 
 :PROPERTIES:
 :CATEGORY: Study
 :END::
+* Things
+:PROPERTIES:
+:CATEGORY: Things
+:END:
+** TODO [#A] Find the requisite skills for google working <2016-03-09 Wed> :@Computer:

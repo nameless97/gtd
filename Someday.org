@@ -7,5 +7,3 @@
 * THINGS TO DO                                                     :@Someday:
 * Someday                                                          :@Someday:
 ** TODO [#C] 画水彩                                            :@Dormitory:
-** TODO [#A] READ PRML                                         :@Dormitory:
-

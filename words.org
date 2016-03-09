@@ -60,10 +60,64 @@ equivalent 等价
 construct 构建
 tune 调整
 tansformation 变换
-hierarchical分层
-nature性质
-exploit利用
-perplexing复杂的
-related相关
-scariest恐怖的
-
+hierarchical 分层
+nature 性质
+exploit 利用
+perplexing 复杂的
+related 相关
+scariest 恐怖的
+avoiding 避免
+overflow 溢出
+accounted 占
+stack 堆栈
+discipline 惩罚；训练；规则
+processor 处理器
+interpret 解释
+prompt 提示;DOS 命令
+correspond 一致
+particular 详细的
+modeled 被效仿
+various 多方面
+stage 阶段
+conduits 管道
+buses 总线
+chunk 数据块
+fixed-sized 固定大小
+fundamental 基本的
+parameter 参数
+embedded 嵌入式
+external 外部
+initially 首先
+adapter 适配器
+controller 控制器
+distinction 差别
+packaging 包装
+chip 芯片
+circuit 电路
+board 板
+slot 槽
+regardless 不管
+purpose 目的
+forth 向前
+access 使用
+generate 生成
+techniques 技术
+temporary 临时
+manipulates 操纵
+consists 包括；由...构成
+general 一般
+constitute 组成；构成
+variable 变量
+vary 违反；变换
+combined 联合
+form 排列；形成;构成
+engine 引擎
+register 寄存器
+blindly 盲目的
+perform 执行
+dictated 命令
+contiguous连续的
+revolve循环
+arithmetic算法
+request请求
+overwriting覆盖
